@@ -1,0 +1,522 @@
+Treino0 (Reuters90 - EXPANSÃO - Dom: 0.7 e Sup: 0.005 - Razão de Desbalanceamento: 5)
+
+Numero de termos do treino: 19590:
+Numero de classes do treino: 90:
+Numero de documentos do treino: 10662:
+classe: 1 num docs.: 42
+classe: 2 num docs.: 38
+classe: 3 num docs.: 90
+classe: 4 num docs.: 55
+classe: 5 num docs.: 2
+classe: 6 num docs.: 57
+classe: 7 num docs.: 4
+classe: 8 num docs.: 5
+classe: 9 num docs.: 118
+classe: 10 num docs.: 45
+classe: 11 num docs.: 3
+classe: 12 num docs.: 198
+classe: 13 num docs.: 50
+classe: 14 num docs.: 3
+classe: 15 num docs.: 74
+classe: 16 num docs.: 4
+classe: 17 num docs.: 469
+classe: 18 num docs.: 3
+classe: 19 num docs.: 130
+classe: 20 num docs.: 12
+classe: 22 num docs.: 21
+classe: 23 num docs.: 45
+classe: 24 num docs.: 100
+classe: 25 num docs.: 94
+classe: 26 num docs.: 471
+classe: 27 num docs.: 8
+classe: 28 num docs.: 2
+classe: 29 num docs.: 14
+classe: 30 num docs.: 17
+classe: 31 num docs.: 13
+classe: 32 num docs.: 12
+classe: 33 num docs.: 4
+classe: 34 num docs.: 387
+classe: 35 num docs.: 43
+classe: 36 num docs.: 47
+classe: 37 num docs.: 4
+classe: 38 num docs.: 54
+classe: 39 num docs.: 3
+classe: 40 num docs.: 21
+classe: 41 num docs.: 14
+classe: 42 num docs.: 2
+classe: 43 num docs.: 73
+classe: 44 num docs.: 14
+classe: 45 num docs.: 34
+classe: 46 num docs.: 564
+classe: 47 num docs.: 137
+classe: 48 num docs.: 3
+classe: 49 num docs.: 83
+classe: 50 num docs.: 8
+classe: 51 num docs.: 3
+classe: 52 num docs.: 3
+classe: 53 num docs.: 12
+classe: 54 num docs.: 133
+classe: 55 num docs.: 21
+classe: 56 num docs.: 1
+classe: 57 num docs.: 2
+classe: 58 num docs.: 34
+classe: 59 num docs.: 26
+classe: 60 num docs.: 10
+classe: 61 num docs.: 6
+classe: 62 num docs.: 5
+classe: 63 num docs.: 1
+classe: 64 num docs.: 7
+classe: 65 num docs.: 26
+classe: 66 num docs.: 57
+classe: 67 num docs.: 17
+classe: 68 num docs.: 46
+classe: 69 num docs.: 35
+classe: 71 num docs.: 224
+classe: 72 num docs.: 24
+classe: 73 num docs.: 27
+classe: 74 num docs.: 94
+classe: 75 num docs.: 24
+classe: 76 num docs.: 20
+classe: 77 num docs.: 19
+classe: 78 num docs.: 130
+classe: 79 num docs.: 1
+classe: 80 num docs.: 5
+classe: 81 num docs.: 12
+classe: 82 num docs.: 9
+classe: 83 num docs.: 24
+classe: 84 num docs.: 405
+classe: 85 num docs.: 96
+classe: 86 num docs.: 238
+classe: 87 num docs.: 23
+classe: 88 num docs.: 47
+classe: 89 num docs.: 28
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.700000 supMin: 0.005000
+Numero de documentos expandidos: 4996. Percentagem de expandidos: 0.47
+Numero de documentos no arquivo: 10662
+Gerando arquivo de teste expandido com pares...
+domMin: 0.700000 supMin: 0.005000
+Numero de documentos expandidos: 1495. Percentagem de expandidos: 0.56
+Numero de documentos no arquivo: 2665
+Tempo: 9 min. 57 seg.
+
+Treino1 (Reuters90 - EXPANSÃO - Dom: 0.4 e Sup: 0.015 - Razão de Desbalanceamento: 5)
+
+Numero de termos do treino: 19590:
+Numero de classes do treino: 90:
+Numero de documentos do treino: 10662:
+classe: 1 num docs.: 46
+classe: 2 num docs.: 36
+classe: 3 num docs.: 85
+classe: 4 num docs.: 56
+classe: 5 num docs.: 2
+classe: 6 num docs.: 60
+classe: 7 num docs.: 4
+classe: 8 num docs.: 6
+classe: 9 num docs.: 107
+classe: 10 num docs.: 56
+classe: 11 num docs.: 2
+classe: 12 num docs.: 185
+classe: 13 num docs.: 49
+classe: 14 num docs.: 2
+classe: 15 num docs.: 83
+classe: 16 num docs.: 3
+classe: 17 num docs.: 468
+classe: 18 num docs.: 3
+classe: 19 num docs.: 138
+classe: 20 num docs.: 11
+classe: 22 num docs.: 19
+classe: 23 num docs.: 47
+classe: 24 num docs.: 106
+classe: 25 num docs.: 100
+classe: 26 num docs.: 464
+classe: 27 num docs.: 5
+classe: 28 num docs.: 2
+classe: 29 num docs.: 13
+classe: 30 num docs.: 18
+classe: 31 num docs.: 12
+classe: 32 num docs.: 12
+classe: 33 num docs.: 5
+classe: 34 num docs.: 391
+classe: 35 num docs.: 43
+classe: 36 num docs.: 38
+classe: 37 num docs.: 5
+classe: 38 num docs.: 56
+classe: 39 num docs.: 7
+classe: 40 num docs.: 26
+classe: 41 num docs.: 11
+classe: 42 num docs.: 2
+classe: 43 num docs.: 84
+classe: 44 num docs.: 10
+classe: 45 num docs.: 39
+classe: 46 num docs.: 582
+classe: 47 num docs.: 138
+classe: 48 num docs.: 6
+classe: 49 num docs.: 84
+classe: 50 num docs.: 7
+classe: 51 num docs.: 1
+classe: 52 num docs.: 2
+classe: 53 num docs.: 9
+classe: 54 num docs.: 136
+classe: 55 num docs.: 25
+classe: 56 num docs.: 3
+classe: 57 num docs.: 1
+classe: 58 num docs.: 30
+classe: 59 num docs.: 25
+classe: 60 num docs.: 9
+classe: 61 num docs.: 5
+classe: 62 num docs.: 5
+classe: 63 num docs.: 3
+classe: 64 num docs.: 6
+classe: 65 num docs.: 20
+classe: 66 num docs.: 60
+classe: 67 num docs.: 19
+classe: 68 num docs.: 50
+classe: 69 num docs.: 44
+classe: 70 num docs.: 2
+classe: 71 num docs.: 236
+classe: 72 num docs.: 26
+classe: 73 num docs.: 28
+classe: 74 num docs.: 91
+classe: 75 num docs.: 18
+classe: 76 num docs.: 23
+classe: 77 num docs.: 24
+classe: 78 num docs.: 129
+classe: 79 num docs.: 2
+classe: 80 num docs.: 3
+classe: 81 num docs.: 15
+classe: 82 num docs.: 13
+classe: 83 num docs.: 26
+classe: 84 num docs.: 384
+classe: 85 num docs.: 99
+classe: 86 num docs.: 229
+classe: 87 num docs.: 23
+classe: 88 num docs.: 47
+classe: 89 num docs.: 26
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.400000 supMin: 0.015000
+Numero de documentos expandidos: 8030. Percentagem de expandidos: 0.75
+Numero de documentos no arquivo: 10662
+Gerando arquivo de teste expandido com pares...
+domMin: 0.400000 supMin: 0.015000
+Numero de documentos expandidos: 2027. Percentagem de expandidos: 0.76
+Numero de documentos no arquivo: 2665
+Tempo: 18 min. 32 seg.
+
+Treino2 (Reuters90 - EXPANSÃO - Dom: 0.9 e Sup: 0.01 - Razão de Desbalanceamento: 5)
+
+Numero de termos do treino: 19590:
+Numero de classes do treino: 90:
+Numero de documentos do treino: 10662:
+classe: 1 num docs.: 49
+classe: 2 num docs.: 41
+classe: 3 num docs.: 85
+classe: 4 num docs.: 51
+classe: 5 num docs.: 2
+classe: 6 num docs.: 62
+classe: 7 num docs.: 6
+classe: 8 num docs.: 5
+classe: 9 num docs.: 110
+classe: 10 num docs.: 46
+classe: 11 num docs.: 2
+classe: 12 num docs.: 190
+classe: 13 num docs.: 46
+classe: 14 num docs.: 3
+classe: 15 num docs.: 81
+classe: 16 num docs.: 4
+classe: 17 num docs.: 454
+classe: 18 num docs.: 2
+classe: 19 num docs.: 128
+classe: 20 num docs.: 10
+classe: 22 num docs.: 18
+classe: 23 num docs.: 35
+classe: 24 num docs.: 114
+classe: 25 num docs.: 99
+classe: 26 num docs.: 468
+classe: 27 num docs.: 8
+classe: 28 num docs.: 1
+classe: 29 num docs.: 18
+classe: 30 num docs.: 16
+classe: 31 num docs.: 18
+classe: 32 num docs.: 15
+classe: 33 num docs.: 4
+classe: 34 num docs.: 387
+classe: 35 num docs.: 45
+classe: 36 num docs.: 44
+classe: 37 num docs.: 3
+classe: 38 num docs.: 49
+classe: 39 num docs.: 7
+classe: 40 num docs.: 24
+classe: 41 num docs.: 11
+classe: 42 num docs.: 1
+classe: 43 num docs.: 81
+classe: 44 num docs.: 14
+classe: 45 num docs.: 42
+classe: 46 num docs.: 576
+classe: 47 num docs.: 133
+classe: 48 num docs.: 5
+classe: 49 num docs.: 91
+classe: 50 num docs.: 7
+classe: 51 num docs.: 3
+classe: 52 num docs.: 4
+classe: 53 num docs.: 12
+classe: 54 num docs.: 137
+classe: 55 num docs.: 19
+classe: 56 num docs.: 2
+classe: 57 num docs.: 3
+classe: 58 num docs.: 34
+classe: 59 num docs.: 26
+classe: 60 num docs.: 9
+classe: 61 num docs.: 4
+classe: 62 num docs.: 4
+classe: 63 num docs.: 2
+classe: 64 num docs.: 4
+classe: 65 num docs.: 22
+classe: 66 num docs.: 55
+classe: 67 num docs.: 23
+classe: 68 num docs.: 42
+classe: 69 num docs.: 36
+classe: 70 num docs.: 2
+classe: 71 num docs.: 215
+classe: 72 num docs.: 24
+classe: 73 num docs.: 28
+classe: 74 num docs.: 94
+classe: 75 num docs.: 21
+classe: 76 num docs.: 20
+classe: 77 num docs.: 23
+classe: 78 num docs.: 135
+classe: 79 num docs.: 2
+classe: 80 num docs.: 7
+classe: 81 num docs.: 11
+classe: 82 num docs.: 11
+classe: 83 num docs.: 25
+classe: 84 num docs.: 385
+classe: 85 num docs.: 101
+classe: 86 num docs.: 223
+classe: 87 num docs.: 24
+classe: 88 num docs.: 50
+classe: 89 num docs.: 29
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.900000 supMin: 0.010000
+Numero de documentos expandidos: 1891. Percentagem de expandidos: 0.18
+Numero de documentos no arquivo: 10662
+Gerando arquivo de teste expandido com pares...
+domMin: 0.900000 supMin: 0.010000
+Numero de documentos expandidos: 749. Percentagem de expandidos: 0.28
+Numero de documentos no arquivo: 2665
+Tempo: 2 min. 18 seg.
+
+Treino3 (Reuters90 - EXPANSÃO - Dom: 0.9 e Sup: 0.005 - Razão de Desbalanceamento: 5)
+
+Numero de termos do treino: 19590:
+Numero de classes do treino: 90:
+Numero de documentos do treino: 10662:
+classe: 1 num docs.: 47
+classe: 2 num docs.: 46
+classe: 3 num docs.: 81
+classe: 4 num docs.: 57
+classe: 6 num docs.: 55
+classe: 7 num docs.: 5
+classe: 8 num docs.: 6
+classe: 9 num docs.: 110
+classe: 10 num docs.: 58
+classe: 11 num docs.: 2
+classe: 12 num docs.: 182
+classe: 13 num docs.: 44
+classe: 14 num docs.: 2
+classe: 15 num docs.: 74
+classe: 16 num docs.: 2
+classe: 17 num docs.: 453
+classe: 18 num docs.: 2
+classe: 19 num docs.: 152
+classe: 20 num docs.: 12
+classe: 22 num docs.: 21
+classe: 23 num docs.: 45
+classe: 24 num docs.: 115
+classe: 25 num docs.: 103
+classe: 26 num docs.: 455
+classe: 27 num docs.: 7
+classe: 28 num docs.: 1
+classe: 29 num docs.: 13
+classe: 30 num docs.: 18
+classe: 31 num docs.: 20
+classe: 32 num docs.: 12
+classe: 33 num docs.: 5
+classe: 34 num docs.: 369
+classe: 35 num docs.: 45
+classe: 36 num docs.: 45
+classe: 37 num docs.: 4
+classe: 38 num docs.: 55
+classe: 39 num docs.: 7
+classe: 40 num docs.: 24
+classe: 41 num docs.: 11
+classe: 42 num docs.: 1
+classe: 43 num docs.: 74
+classe: 44 num docs.: 11
+classe: 45 num docs.: 40
+classe: 46 num docs.: 571
+classe: 47 num docs.: 140
+classe: 48 num docs.: 6
+classe: 49 num docs.: 78
+classe: 50 num docs.: 8
+classe: 51 num docs.: 3
+classe: 52 num docs.: 4
+classe: 53 num docs.: 12
+classe: 54 num docs.: 137
+classe: 55 num docs.: 23
+classe: 56 num docs.: 3
+classe: 57 num docs.: 3
+classe: 58 num docs.: 31
+classe: 59 num docs.: 29
+classe: 60 num docs.: 10
+classe: 61 num docs.: 4
+classe: 62 num docs.: 5
+classe: 63 num docs.: 3
+classe: 64 num docs.: 7
+classe: 65 num docs.: 19
+classe: 66 num docs.: 61
+classe: 67 num docs.: 22
+classe: 68 num docs.: 48
+classe: 69 num docs.: 43
+classe: 70 num docs.: 2
+classe: 71 num docs.: 228
+classe: 72 num docs.: 17
+classe: 73 num docs.: 26
+classe: 74 num docs.: 82
+classe: 75 num docs.: 21
+classe: 76 num docs.: 19
+classe: 77 num docs.: 25
+classe: 78 num docs.: 134
+classe: 79 num docs.: 1
+classe: 80 num docs.: 7
+classe: 81 num docs.: 14
+classe: 82 num docs.: 9
+classe: 83 num docs.: 22
+classe: 84 num docs.: 385
+classe: 85 num docs.: 101
+classe: 86 num docs.: 220
+classe: 87 num docs.: 24
+classe: 88 num docs.: 45
+classe: 89 num docs.: 26
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.900000 supMin: 0.005000
+Numero de documentos expandidos: 2153. Percentagem de expandidos: 0.20
+Numero de documentos no arquivo: 10662
+Gerando arquivo de teste expandido com pares...
+domMin: 0.900000 supMin: 0.005000
+Numero de documentos expandidos: 912. Percentagem de expandidos: 0.34
+Numero de documentos no arquivo: 2665
+Tempo: 4 min. 22 seg.
+
+Treino4 (Reuters90 - EXPANSÃO - Dom: 0.5 e Sup: 0.03 - Razão de Desbalanceamento: 5)
+
+Numero de termos do treino: 19589:
+Numero de classes do treino: 90:
+Numero de documentos do treino: 10660:
+classe: 1 num docs.: 48
+classe: 2 num docs.: 43
+classe: 3 num docs.: 79
+classe: 4 num docs.: 53
+classe: 5 num docs.: 2
+classe: 6 num docs.: 58
+classe: 7 num docs.: 5
+classe: 8 num docs.: 6
+classe: 9 num docs.: 111
+classe: 10 num docs.: 55
+classe: 11 num docs.: 3
+classe: 12 num docs.: 193
+classe: 13 num docs.: 47
+classe: 14 num docs.: 2
+classe: 15 num docs.: 76
+classe: 16 num docs.: 3
+classe: 17 num docs.: 468
+classe: 18 num docs.: 2
+classe: 19 num docs.: 152
+classe: 20 num docs.: 11
+classe: 22 num docs.: 13
+classe: 23 num docs.: 44
+classe: 24 num docs.: 109
+classe: 25 num docs.: 100
+classe: 26 num docs.: 470
+classe: 27 num docs.: 8
+classe: 28 num docs.: 2
+classe: 29 num docs.: 18
+classe: 30 num docs.: 19
+classe: 31 num docs.: 17
+classe: 32 num docs.: 13
+classe: 33 num docs.: 6
+classe: 34 num docs.: 378
+classe: 35 num docs.: 36
+classe: 36 num docs.: 42
+classe: 37 num docs.: 4
+classe: 38 num docs.: 54
+classe: 39 num docs.: 8
+classe: 40 num docs.: 21
+classe: 41 num docs.: 13
+classe: 42 num docs.: 2
+classe: 43 num docs.: 84
+classe: 44 num docs.: 15
+classe: 45 num docs.: 41
+classe: 46 num docs.: 575
+classe: 47 num docs.: 140
+classe: 48 num docs.: 4
+classe: 49 num docs.: 84
+classe: 50 num docs.: 6
+classe: 51 num docs.: 2
+classe: 52 num docs.: 3
+classe: 53 num docs.: 11
+classe: 54 num docs.: 141
+classe: 55 num docs.: 20
+classe: 56 num docs.: 3
+classe: 57 num docs.: 3
+classe: 58 num docs.: 31
+classe: 59 num docs.: 22
+classe: 60 num docs.: 10
+classe: 61 num docs.: 5
+classe: 62 num docs.: 5
+classe: 63 num docs.: 3
+classe: 64 num docs.: 8
+classe: 65 num docs.: 21
+classe: 66 num docs.: 59
+classe: 67 num docs.: 19
+classe: 68 num docs.: 50
+classe: 69 num docs.: 38
+classe: 70 num docs.: 2
+classe: 71 num docs.: 241
+classe: 72 num docs.: 25
+classe: 73 num docs.: 27
+classe: 74 num docs.: 83
+classe: 75 num docs.: 20
+classe: 76 num docs.: 18
+classe: 77 num docs.: 17
+classe: 78 num docs.: 120
+classe: 79 num docs.: 2
+classe: 80 num docs.: 6
+classe: 81 num docs.: 12
+classe: 82 num docs.: 10
+classe: 83 num docs.: 23
+classe: 84 num docs.: 385
+classe: 85 num docs.: 99
+classe: 86 num docs.: 222
+classe: 87 num docs.: 22
+classe: 88 num docs.: 47
+classe: 89 num docs.: 27
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.500000 supMin: 0.030000
+Numero de documentos expandidos: 6732. Percentagem de expandidos: 0.63
+Numero de documentos no arquivo: 10660
+Gerando arquivo de teste expandido com pares...
+domMin: 0.500000 supMin: 0.030000
+Numero de documentos expandidos: 1758. Percentagem de expandidos: 0.66
+Numero de documentos no arquivo: 2667
+Tempo: 5 min. 20 seg.

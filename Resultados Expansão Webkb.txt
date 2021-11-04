@@ -1,0 +1,109 @@
+Treino0 (Webkb - EXPANSÃO - Dom: 0.5 e Sup: 0.02 - Razão de Desbalanceamento: 3)
+
+Numero de termos do treino: 40194:
+Numero de classes do treino: 7:
+Numero de documentos do treino: 6620:
+classe: 0 num docs.: 750
+classe: 1 num docs.: 145
+classe: 2 num docs.: 898
+classe: 4 num docs.: 411
+classe: 5 num docs.: 110
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.600000 supMin: 0.015000
+Numero de documentos expandidos: 4969. Percentagem de expandidos: 0.75
+Numero de documentos no arquivo: 6620
+Gerando arquivo de teste expandido com pares...
+domMin: 0.600000 supMin: 0.015000
+Numero de documentos expandidos: 1270. Percentagem de expandidos: 0.77
+Numero de documentos no arquivo: 1654
+Tempo: 1 min. 39 seg.
+
+Treino1 (Webkb - EXPANSÃO - Dom: 0.5 e Sup: 0.015 - Razão de Desbalanceamento: 3)
+
+Numero de termos do treino: 40195:
+Numero de classes do treino: 7:
+Numero de documentos do treino: 6620:
+classe: 0 num docs.: 734
+classe: 1 num docs.: 139
+classe: 2 num docs.: 891
+classe: 4 num docs.: 407
+classe: 5 num docs.: 111
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.600000 supMin: 0.015000
+Numero de documentos expandidos: 4928. Percentagem de expandidos: 0.74
+Numero de documentos no arquivo: 6620
+Gerando arquivo de teste expandido com pares...
+domMin: 0.600000 supMin: 0.015000
+Numero de documentos expandidos: 1257. Percentagem de expandidos: 0.76
+Numero de documentos no arquivo: 1654
+Tempo: 1 min. 28 seg.
+
+Treino2 (Webkb - EXPANSÃO - Dom: 0.6 e Sup: 0.015 - Razão de Desbalanceamento: 3)
+
+Numero de termos do treino: 40195:
+Numero de classes do treino: 7:
+Numero de documentos do treino: 6620:
+classe: 0 num docs.: 760
+classe: 1 num docs.: 151
+classe: 2 num docs.: 901
+classe: 4 num docs.: 397
+classe: 5 num docs.: 104
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.600000 supMin: 0.015000
+Numero de documentos expandidos: 4972. Percentagem de expandidos: 0.75
+Numero de documentos no arquivo: 6620
+Gerando arquivo de teste expandido com pares...
+domMin: 0.600000 supMin: 0.015000
+Numero de documentos expandidos: 1292. Percentagem de expandidos: 0.78
+Numero de documentos no arquivo: 1654
+Tempo: 1 min. 42 seg.
+
+Treino3 (Webkb - EXPANSÃO - Dom: 0.6 e Sup: 0.015 - Razão de Desbalanceamento: 3)
+
+Numero de termos do treino: 40195:
+Numero de classes do treino: 7:
+Numero de documentos do treino: 6620:
+classe: 0 num docs.: 744
+classe: 1 num docs.: 146
+classe: 2 num docs.: 900
+classe: 4 num docs.: 394
+classe: 5 num docs.: 111
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.600000 supMin: 0.015000
+Numero de documentos expandidos: 4977. Percentagem de expandidos: 0.75
+Numero de documentos no arquivo: 6620
+Gerando arquivo de teste expandido com pares...
+domMin: 0.600000 supMin: 0.015000
+Numero de documentos expandidos: 1288. Percentagem de expandidos: 0.78
+Numero de documentos no arquivo: 1654
+Tempo: 1 min. 47 seg.
+
+Treino4 (Webkb - EXPANSÃO - Dom: 0.6 e Sup: 0.01 - Razão de Desbalanceamento: 3)
+
+Numero de termos do treino: 40195:
+Numero de classes do treino: 7:
+Numero de documentos do treino: 6616:
+classe: 0 num docs.: 728
+classe: 1 num docs.: 147
+classe: 2 num docs.: 906
+classe: 4 num docs.: 407
+classe: 5 num docs.: 112
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.600000 supMin: 0.015000
+Numero de documentos expandidos: 4859. Percentagem de expandidos: 0.73
+Numero de documentos no arquivo: 6616
+Gerando arquivo de teste expandido com pares...
+domMin: 0.600000 supMin: 0.015000
+Numero de documentos expandidos: 1245. Percentagem de expandidos: 0.75
+Numero de documentos no arquivo: 1658
+Tempo: 1 min. 37 seg.

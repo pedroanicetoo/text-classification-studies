@@ -1,0 +1,109 @@
+Treino0 (ACM - EXPANSÃO - Dom: 0.8 e Sup: 0.01 - Razão de Desbalanceamento: 4)
+
+Numero de termos do treino: 59990:
+Numero de classes do treino: 11:
+Numero de documentos do treino: 19917:
+classe: 0 num docs.: 496
+classe: 4 num docs.: 52
+classe: 5 num docs.: 745
+classe: 6 num docs.: 737
+classe: 9 num docs.: 289
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.500000 supMin: 0.015000
+Numero de documentos expandidos: 1868. Percentagem de expandidos: 0.09
+Numero de documentos no arquivo: 19917
+Gerando arquivo de teste expandido com pares...
+domMin: 0.500000 supMin: 0.015000
+Numero de documentos expandidos: 445. Percentagem de expandidos: 0.09
+Numero de documentos no arquivo: 4979
+Tempo: 0 min. 6 seg.
+
+Treino1 (ACM - EXPANSÃO - Dom: 0.5 e Sup: 0.045 - Razão de Desbalanceamento: 4)
+
+Numero de termos do treino: 59990:
+Numero de classes do treino: 11:
+Numero de documentos do treino: 19918:
+classe: 0 num docs.: 494
+classe: 4 num docs.: 49
+classe: 5 num docs.: 710
+classe: 6 num docs.: 757
+classe: 9 num docs.: 295
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.500000 supMin: 0.015000
+Numero de documentos expandidos: 1986. Percentagem de expandidos: 0.10
+Numero de documentos no arquivo: 19918
+Gerando arquivo de teste expandido com pares...
+domMin: 0.500000 supMin: 0.015000
+Numero de documentos expandidos: 489. Percentagem de expandidos: 0.10
+Numero de documentos no arquivo: 4979
+Tempo: 0 min. 7 seg.
+
+Treino1 (ACM - EXPANSÃO - Dom: 0.5 e Sup: 0.015 - Razão de Desbalanceamento: 4)
+
+Numero de termos do treino: 59986:
+Numero de classes do treino: 11:
+Numero de documentos do treino: 19918:
+classe: 0 num docs.: 480
+classe: 4 num docs.: 50
+classe: 5 num docs.: 734
+classe: 6 num docs.: 728
+classe: 9 num docs.: 307
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.500000 supMin: 0.015000
+Numero de documentos expandidos: 1943. Percentagem de expandidos: 0.10
+Numero de documentos no arquivo: 19918
+Gerando arquivo de teste expandido com pares...
+domMin: 0.500000 supMin: 0.015000
+Numero de documentos expandidos: 538. Percentagem de expandidos: 0.11
+Numero de documentos no arquivo: 4979
+Tempo: 0 min. 10 seg.
+
+Treino1 (ACM - EXPANSÃO - Dom: 0.6 e Sup: 0.015 - Razão de Desbalanceamento: 4)
+
+Numero de termos do treino: 59990:
+Numero de classes do treino: 11:
+Numero de documentos do treino: 19918:
+classe: 0 num docs.: 504
+classe: 4 num docs.: 51
+classe: 5 num docs.: 703
+classe: 6 num docs.: 754
+classe: 9 num docs.: 295
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.500000 supMin: 0.015000
+Numero de documentos expandidos: 1992. Percentagem de expandidos: 0.10
+Numero de documentos no arquivo: 19918
+Gerando arquivo de teste expandido com pares...
+domMin: 0.500000 supMin: 0.015000
+Numero de documentos expandidos: 521. Percentagem de expandidos: 0.10
+Numero de documentos no arquivo: 4979
+Tempo: 0 min. 7 seg.
+
+Treino1 (ACM - EXPANSÃO - Dom: 0.5 e Sup: 0.015 - Razão de Desbalanceamento: 4)
+
+Numero de termos do treino: 59990:
+Numero de classes do treino: 11:
+Numero de documentos do treino: 19916:
+classe: 0 num docs.: 486
+classe: 4 num docs.: 50
+classe: 5 num docs.: 735
+classe: 6 num docs.: 744
+classe: 9 num docs.: 286
+
+Lendo o arquivo de pares
+Gerando arquivo de treino expandido com pares...
+domMin: 0.500000 supMin: 0.015000
+Numero de documentos expandidos: 1982. Percentagem de expandidos: 0.10
+Numero de documentos no arquivo: 19916
+Gerando arquivo de teste expandido com pares...
+domMin: 0.500000 supMin: 0.015000
+Numero de documentos expandidos: 479. Percentagem de expandidos: 0.10
+Numero de documentos no arquivo: 4981
+Tempo: 0 min. 6 seg.
